@@ -1,4 +1,4 @@
-# Dark Mellow for Bitwig
+# Dark Neon for Bitwig
 A dark theme for Bitwig Studio with a bright color palette. To be used with [Theme Editor by Berikai](https://github.com/Berikai/bitwig-theme-editor)
 
 ## What's included
@@ -21,8 +21,8 @@ A dark theme for Bitwig Studio with a bright color palette. To be used with [The
 ## Screenshots
 Screenshot taken with Midtones at 0 and Black Level at 50
 
-[![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/Dark%20Mellow%20-%20Screenshot.jpg)](https://github.com/dariolupo/dark-neon_bitwig/blob/main/Screenshots/Dark%20Neon%20-%20Screenshot%200%2050.png)
+![Screenshot](https://github.com/dariolupo/dark-neon_bitwig/blob/main/Screenshots/Dark%20Neon%20-%20Screenshot%200%2050.png)
 
 Screenshot taken with Midtones at 0 and Black Level also at 0 (full dark)
 
-[![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/Dark%20Mellow%20-%20Full%20Dark%20Screenshot.jpg)](https://github.com/dariolupo/dark-neon_bitwig/blob/main/Screenshots/Dark%20Neon%20-%20Screenshot%200%200.png?raw=true)
+![Screenshot](https://github.com/dariolupo/dark-neon_bitwig/blob/main/Screenshots/Dark%20Neon%20-%20Screenshot%200%200.png)
